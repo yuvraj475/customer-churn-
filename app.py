@@ -7,7 +7,7 @@ st.set_page_config(
     page_icon="📊",
     layout="wide"
 )
-df =pd.read_csv(r"C:\Users\kushw\OneDrive\Pictures\WA_Fn-UseC_-Telco-Customer-Churn.csv")
+
 
 st.title('🎯 CUSTOMER CHURN PREDICTION ')
 st.markdown('### TELECOM CUSTOMER INTELLIGENCE')
